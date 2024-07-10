@@ -1,0 +1,7 @@
+5	Burcu
+10	Beyza
+15	Beril
+20	Bade
+25	Berat
+30	Berat
+35	Berat
