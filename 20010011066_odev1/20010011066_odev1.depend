@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697392862 source:c:\users\burcu\desktop\c\veriyapilari\20010011066_odev1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

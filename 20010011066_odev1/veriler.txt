@@ -1,0 +1,21 @@
+12345 Ali Yilmaz
+Matematik MAT101 85
+Fizik FZK102 70
+Kimya KMY201 90
+
+23456 Ayse Demir
+Biyoloji BIO101 95
+Tarih TAR102 80
+
+38459 Burcu Dere
+Biyoloji BIO101 95
+Tarih TAR102 85
+Fizik FZK102 70
+
+58459 Berat Hazer
+Fizik FZK102 90
+Kimya KMY201 95
+
+92345 Merve Yilmaz
+Fizik FZK102 60
+Kimya KMY201 90
