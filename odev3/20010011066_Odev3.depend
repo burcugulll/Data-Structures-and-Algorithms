@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698609741 source:c:\users\burcu\desktop\c\veriyapilari\20010011066_odev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+

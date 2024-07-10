@@ -1,0 +1,11 @@
+Girilen infix ifadeyi adim adim postfix e donusturme:
+Token: a
+Postfix: a
+Stack: 
+Token: b
+Postfix: ab
+Stack: 
+Token: c
+Postfix: abc
+Stack: 
+Son Postfix Ifade: abc
