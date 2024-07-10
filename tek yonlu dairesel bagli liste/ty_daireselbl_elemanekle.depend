@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698501322 source:c:\users\burcu\desktop\c\veriyapilari\ty_daireselbl_elemanekle\main.c
+	<stdio.h>
+	<stdlib.h>
+
